@@ -5,7 +5,7 @@
 This repository contains instructions to build a dockerize version
 of the Rust and WebAssembly tutorial implementing the Game of Life.
 
-A simple `make` command will build the `www` directory to serve.
+A simple `make` command will build the `wasm_game_of_life/www` directory to serve.
 
 `make run` will serve `http://localhost:8080`. It requires `npm` to be installed.
 
